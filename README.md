@@ -2,12 +2,12 @@
 core-java-if-expense-income-tracker
 
 Overview
-This is a simple command-line Java application for tracking income and expenses.
-It uses basic Java concepts and follows a structured design with models, service classes, and a menu-driven main class. 
+This is a simple command-line Java application for tracking income and expenses. 
+It uses basic Java concepts and follows a structured design with models, service classes, and a menu-driven main class.
 The program only relies on if statements for all decision-making, making it straightforward and easy to understand.
 
 Features
-- Add Income: Enter an income amount along with a description.
+-Add Income: Enter an income amount along with a description.
 -Add Expense: Record expenses with details and categories.
 -View Balance: Check your current balance.
 -View Transactions: See a list of all income and expense records.
