@@ -14,24 +14,24 @@ Features
 - **Exist:** terminate the program.
 
 Design Overview
- Model: Transaction
+- Model: Transaction
 -type: Type of transaction (Income or Expense).
 -amount: The monetary value of the transaction.
-Service: TrackerService
+-Service: TrackerService
 -Managing balance.
 -Adding and validating transactions.
 -Storing transaction history.
-Main Class: ExpenseIncomeTracker
+-Main Class: ExpenseIncomeTracker
 -Handles user input and delegates operations to the TrackerService.
-Control Flow:
+-Control Flow:
 -Only if statements are used.
 
 Steps
-1.Clone the repository :git clone git@github.com:RD-2000/if-Expence-Income-Tracker.git
-  go to the directory: cd if-expense-income-tracker
-2.open the project in IDE
-3.compile the files.
-4.Run the application.
+-1.Clone the repository :git clone git@github.com:RD-2000/if-Expence-Income-Tracker.git
+ - go to the directory: cd if-expense-income-tracker
+-2.open the project in IDE
+-3.compile the files.
+-4.Run the application.
 
 
 
